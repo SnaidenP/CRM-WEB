@@ -11,9 +11,6 @@ body {
     color: white;
     height: 100vh;
     position: fixed;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;
-    border-bottom-left-radius: 30px;
     padding: 20px;
     text-align: center;
    
@@ -91,6 +88,7 @@ body {
     gap: 20px;
     flex-wrap: wrap;
     margin-top: 20px;
+    margin-left: 10px;
 }
 
 .widget {
@@ -106,6 +104,7 @@ body {
 .widget h3 {
     margin: 0 0 10px;
     font-size: 18px;
+
 }
 
 .list-item {
